@@ -3,7 +3,7 @@
  muchas ofertas de trabajo, la mayoría en Barcelona y Madrid y, después de
  estudiarlas detenidamente, me he decantado por la siguiente:
 
- (<a href="https://ibb.co/Tv7sf7X"><img src="https://i.ibb.co/ZLF0jFs/Captura-de-pantalla-2024-10-29-154447.png" alt="Captura-de-pantalla-2024-10-29-154447" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>steam fotos</a>)
+ (<a href="https://ibb.co/Tv7sf7X"><img src="https://i.ibb.co/ZLF0jFs/Captura-de-pantalla-2024-10-29-154447.png" alt="Captura-de-pantalla-2024-10-29-154447" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>)
  
  <br>
 
