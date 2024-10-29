@@ -4,11 +4,14 @@ Cuando se trata de una cadena de herramientas de DevOps, las organizaciones nece
 Hay dos enfoques principales para las cadenas de herramientas de DevOps:
 1. **Abiertas**: Las cadenas de herramientas abiertas se pueden personalizar con diferentes herramientas según las necesidades del equipo.
 2. **Todo en uno:** Un enfoque de DevOps todo en uno proporciona una solución completa que habitualmente no se integra con otras herramientas de terceros.
-Independientemente del tipo de cadena de herramientas de DevOps que utilice una organización, un proceso de DevOps necesita las herramientas adecuadas para las fases clave del [ciclo de vida de DevOps](https://unity.com/es/topics/devops-lifecycle).
+Independientemente del tipo de cadena de herramientas de DevOps que utilice una organización, un proceso de DevOps necesita las herramientas adecuadas para las fases clave del [ciclo de vida de DevOps](https://unity.com/es/topics/devops-lifecycle).<br>
+
+Las herramientas más usadas según el ciclo de DevOps:
 
 <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1MPywRg/ilustracion-devops-gradiente-23-2149370941.jpg" alt="ilustracion-devops-gradiente-23-2149370941" border="0"></a>
+<a href="https://ibb.co/Hpk1bMb"><img src="https://i.ibb.co/NnHQJkJ/Captura-de-pantalla-2024-10-29-162617.png" alt="Captura-de-pantalla-2024-10-29-162617" border="0"></a>
+
 
 
 
