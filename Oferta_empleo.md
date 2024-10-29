@@ -22,6 +22,10 @@
  rompecabezas.
  La modalidad de teletrabajo completo también es muy atractiva pues
  ofrece una gran flexibilidad, permitiendo trabajar desde cualquier lugar sin
- necesidad de hacerlo desde Madrid; y al no tener que vivir allí, el salario es
- muy competitivo y está en línea con el mercado para ese tipo de perfil
- especializado
+ necesidad de hacerlo desde Madrid; y al no tener que vivir allí, el salario es muy competitivo y está en línea con el mercado para ese tipo de perfil
+ especializado.
+  En cuanto a los requisitos técnicos, aunque son avanzados, su
+ conocimiento y desarrollo unido con la formación continua ofrecida por la
+ empresa (incluido certificaciones pagadas), permitirá mantener las habilidades actualizadas y tener asegurado un trabajo con tecnologías de vanguardia.
+ En resumen, es una oferta que ofrece un excelente equilibrio entre
+ desafíos técnicos, un salario competitivo, teletrabajo, y una serie de beneficios que favorecen tanto el desarrollo profesional como el bienestar personal.
