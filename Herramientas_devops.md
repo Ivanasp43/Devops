@@ -6,13 +6,8 @@ Hay dos enfoques principales para las cadenas de herramientas de DevOps:
 2. **Todo en uno:** Un enfoque de DevOps todo en uno proporciona una solución completa que habitualmente no se integra con otras herramientas de terceros.
 Independientemente del tipo de cadena de herramientas de DevOps que utilice una organización, un proceso de DevOps necesita las herramientas adecuadas para las fases clave del [ciclo de vida de DevOps](https://unity.com/es/topics/devops-lifecycle).
 
-Entre las herramientas más utilizadas encontramos las siguientes:
-1. **GIT**. Es una herramienta que permite guardar diferentes versiones de su código fuente y volver a versiones anteriores cuando sea necesario, que facilita el trabajo en equipo y contribuye a mantener un código abierto organizado y seguro.
-Es compatible con casi todos los protocolos, desde HTTP hata SSH y FTP.
-2. **Docker**. Es un visualizador de contenedores, una plataforma de virtualización de sistema operativo que permite empaquetar aplicaciones y sus dependencias en contendores aislados. Además, se integra bien con otras herramientas lo que facilita el despliegue, la escalabilidad y la administración de aplicaciones y contenedores en entornos distribuidos.
-3. **Kubernetes**. Plataforma de código abierto diseñada para la automatización, implementación, escalado y gestión de aplicaciones en contenedores que permite escalar aplicaciones horizontalmente, agregando o eliminando contenedores según la demanda, y administra los recursos de manera eficiente al asignarlos según las necesidades de las aplicaciones.
-4. **AWS**. Es uno de los servicios de referencia para llevar la infraestructura, aplicaciones y datos a la nube de manera segura y eficiente. AWS permite automatizar procesos engorrosos dentro de un proyecto al llevar sus servicios a la nube, sin preocuparse por el mantenimiento, las actulalizaciones o la seguridad de los servidores , ya que AWS se encarga de todo.
-   
+
+
 
 ## Casos reales de implementación de DevOps
 
