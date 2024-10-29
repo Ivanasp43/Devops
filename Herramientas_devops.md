@@ -10,7 +10,7 @@ Las herramientas más usadas según el ciclo de DevOps:
 
 <br>
 
-<a href="https://ibb.co/Hpk1bMb"><img src="https://i.ibb.co/NnHQJkJ/Captura-de-pantalla-2024-10-29-162617.png" alt="Captura-de-pantalla-2024-10-29-162617" border="0"></a>
+![](https://github.com/Ivanasp43/Devops/blob/main/IMAGENES/Captura%20de%20pantalla%202024-10-29%20162617.png)
 
 
 
