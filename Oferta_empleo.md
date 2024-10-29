@@ -8,7 +8,7 @@
  
  <br>
 
-<a href="https://ibb.co/zS6kSTT"><img src="https://i.ibb.co/MRBXRxx/Captura-de-pantalla-2024-10-29-154510.png" alt="Captura-de-pantalla-2024-10-29-154510" border="0"></a>
+![](https://github.com/Ivanasp43/Devops/blob/main/IMAGENES/Captura%20de%20pantalla%202024-10-29%20154510.png)
 
  <br>
 
