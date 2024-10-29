@@ -1,7 +1,11 @@
 ## Oferta de empleo
  Al entrar en Infojobs.net y poner en el buscador DevOps, han salido
  muchas ofertas de trabajo, la mayoría en Barcelona y Madrid y, después de
- estudiarlas detenidamente, me he decantado por la siguiente.
+ estudiarlas detenidamente, me he decantado por la siguiente:
+
+ (<a href="https://ibb.co/Tv7sf7X"><img src="https://i.ibb.co/ZLF0jFs/Captura-de-pantalla-2024-10-29-154447.png" alt="Captura-de-pantalla-2024-10-29-154447" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>steam fotos</a><br />)
+
+ (<a href="https://ibb.co/zS6kSTT"><img src="https://i.ibb.co/MRBXRxx/Captura-de-pantalla-2024-10-29-154510.png" alt="Captura-de-pantalla-2024-10-29-154510" border="0"></a>)
 
  
 ### ¿Por qué la elección de esta oferta?
