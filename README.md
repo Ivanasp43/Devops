@@ -17,7 +17,7 @@ El ciclo de vida de DevOps se divide en ocho fases, que representan los procesos
 
 <br>
 
-(<a href="https://imgbb.com/"><img src="https://i.ibb.co/1MPywRg/ilustracion-devops-gradiente-23-2149370941.jpg" alt="ilustracion-devops-gradiente-23-2149370941" border="0"></a>)
+![](https://raw.githubusercontent.com/Ivanasp43/Devops/refs/heads/main/IMAGENES/ilustracion-devops-gradiente_23-2149370941.avif)
 
 
 ## Índice 
