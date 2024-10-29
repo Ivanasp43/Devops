@@ -4,7 +4,7 @@
 
  <br>
 
-<a href="https://ibb.co/Tv7sf7X"><img src="https://i.ibb.co/ZLF0jFs/Captura-de-pantalla-2024-10-29-154447.png" alt="Captura-de-pantalla-2024-10-29-154447" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
+![](https://github.com/Ivanasp43/Devops/blob/main/IMAGENES/Captura%20de%20pantalla%202024-10-29%20154447.png)
  
  <br>
 
