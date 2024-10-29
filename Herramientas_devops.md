@@ -6,6 +6,10 @@ Hay dos enfoques principales para las cadenas de herramientas de DevOps:
 2. **Todo en uno:** Un enfoque de DevOps todo en uno proporciona una solución completa que habitualmente no se integra con otras herramientas de terceros.
 Independientemente del tipo de cadena de herramientas de DevOps que utilice una organización, un proceso de DevOps necesita las herramientas adecuadas para las fases clave del [ciclo de vida de DevOps](https://unity.com/es/topics/devops-lifecycle).
 
+<br>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1MPywRg/ilustracion-devops-gradiente-23-2149370941.jpg" alt="ilustracion-devops-gradiente-23-2149370941" border="0"></a>
+
 
 
 
