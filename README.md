@@ -5,7 +5,7 @@ Su objetivo principal es optimizar los procesos de desarrollo de software, acele
 ## Índice 
 1. Filosofía (https://github.com/Ivanasp43/Devops/blob/main/Filosof%C3%ADa_devops.md)
 2. Herramientas (https://github.com/Ivanasp43/Devops/blob/main/Herramientas_devops.md)
-3. Oferta de empleo
+3. Oferta de empleo (https://github.com/Ivanasp43/Devops/blob/main/Oferta_empleo.md)
 
 ## Referencia
 
